@@ -1,5 +1,7 @@
 # fastapi-websockets
 
+Working example of https://fastapi.tiangolo.com/advanced/websockets/
+
 ## Quickstart
 
 ```bash
